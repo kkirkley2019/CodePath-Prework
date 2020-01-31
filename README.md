@@ -2,7 +2,7 @@
 
 
 ### App Description
-`TODO://` Displays Hello from Kayla! and chnages text color
+//` Displays Hello from Kayla! and chnages text color
 
 
 
